@@ -1,0 +1,4 @@
+
+"Para rodar a simulação:
+./.venv/bin/python -m visualizacao_3d.painel
+"
